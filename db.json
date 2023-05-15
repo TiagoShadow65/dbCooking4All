@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Tozé Pereira",
+    "workshop": "Culinária Europeia",
+    "data": "08/05/2023",
+    "n_pessoas": "1",
+    "estado":"A confirmar"
+  },
+  {
+    "id": 2,
+    "nome": "Maria Rescaldo",
+    "workshop": "Confeitaria Saudável",
+    "data": "08/05/2023",
+    "n_pessoas": "5",
+    "estado":"Aceite"
+  },
+  {
+    "id": 3,
+    "nome": "Ana Filipa",
+    "workshop": "Padaria",
+    "data": "03/05/2023",
+    "n_pessoas": "5",
+    "estado":"Recusado"
+  }
+  ]
